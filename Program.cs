@@ -1,4 +1,7 @@
-﻿public static void main(String args)
+﻿using Microsoft.VisualBasic.FileIO;
+class index
 {
-
+    public static void Main(String[] args)
+    {
+    }
 }
