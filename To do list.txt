@@ -1,0 +1,13 @@
+﻿Implement proper fractions.
+	due to floating point math there is inaccuracies
+	this would be solved by true fractions
+	not sure how to do this currently
+Flesh Out the mathcore
+	some units only rr 1's
+		this is actually very frequent
+Implement database
+	this way the program would work based upon actual data
+	I hate manually entering all this stuff
+graph output
+	this allows for a better visualisation
+	allows for easier understanding of data
